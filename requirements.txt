@@ -1,7 +1,10 @@
-duckdb
 streamlit
+duckdb
 groq
-python-dotenv
 google-generativeai
 chromadb
-sentence_transformers
+sentence-transformers
+pandas
+numpy
+python-dotenv
+python-dateutil
