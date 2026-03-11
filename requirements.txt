@@ -1,0 +1,7 @@
+duckdb
+streamlit
+groq
+python-dotenv
+google-generativeai
+chromadb
+sentence_transformers
