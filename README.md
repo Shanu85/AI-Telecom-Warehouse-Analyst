@@ -10,8 +10,13 @@ A production-grade **Natural Language to SQL engine** built for Indian telecom d
 ## 🎥 Demo
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c5634e4b-fcd3-4ad9-bfea-d278668f4d98"  width="45%" />
-  <img src="https://github.com/user-attachments/assets/cf2025e2-3e40-45c8-b312-a8e9a0d23329" width="45%" />
+  <img src="https://github.com/Shanu85/AI-Telecom-Warehouse-Analyst/blob/main/results/SCR-20260311-qpwc.png"  width="45%" />
+  <img src="https://github.com/Shanu85/AI-Telecom-Warehouse-Analyst/blob/main/results/SCR-20260311-qrvv.png" width="45%" />
+</p>
+<p align="center">
+  
+  <img src="https://github.com/Shanu85/AI-Telecom-Warehouse-Analyst/blob/main/results/SCR-20260311-sbvz.png"  width="45%" />
+  <img src="https://github.com/Shanu85/AI-Telecom-Warehouse-Analyst/blob/main/results/SCR-20260311-schf.png" width="45%" />
 </p>
 
 ---
